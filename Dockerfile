@@ -1,4 +1,4 @@
-FROM alpine:3.7
+FROM alpine:3.10.3
 
 ARG VERSION_GIT="2.15.0-r1"
 ARG VERSION_OPENSSH="7.5_p1-r8"
